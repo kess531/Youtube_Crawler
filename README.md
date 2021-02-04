@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 프로젝트
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/kess531/Youtube-Crawler)
+
 
 프로젝트의 목표는 'Simple' 입니다. 기본 유튜브에는 수많은 영상들이 있고 그것을 검색하고자 하는 사람들도 점점 많아져 나날이 최고치를 찍고 있습니다. 그런 사용자들에게 조금은 더 직관적인 검색을 제공하고자 개발하게 되었습니다. 
 
